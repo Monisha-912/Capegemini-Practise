@@ -1,4 +1,4 @@
-class LargestNumber 
+class LowestNumber 
 {  
 public static void main(String[] args)   
 {  
